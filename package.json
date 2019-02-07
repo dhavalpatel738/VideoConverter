@@ -9,7 +9,11 @@
   },
   "author": "Rallycoding",
   "devDependencies": {
-    "electron": "~1.6.2"
+    
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dhavalpatel738/VideoConverter.git"
   },
   "dependencies": {
     "babel-core": "^6.24.0",
